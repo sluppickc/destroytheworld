@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					83FAB79E1E1DA79F00BEBA21 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = Q8A7PL9H2A;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -260,6 +261,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = Q8A7PL9H2A;
 				INFOPLIST_FILE = DestroyTheWorldGithubTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.sluppickdesign.DestroyTheWorldGithubTest;
@@ -272,6 +274,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = Q8A7PL9H2A;
 				INFOPLIST_FILE = DestroyTheWorldGithubTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.sluppickdesign.DestroyTheWorldGithubTest;
